@@ -4,7 +4,8 @@ def assign_rooms(speakers,rooms)
   for speaker in room
     puts "Hello, #{speaker}! You'll be in assigned to room #{room.count}"
   end
-end 
+
 
 def badge_maker(name)
   puts "Hello, my name is #{name}."
+end
